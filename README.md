@@ -4,6 +4,13 @@ Most immediate tasks:
 
 1.	Establish how to retrieve information from the database as defined in the coursework specification
 2.	Establish how to query the database from Java and generated the required reports
+3.  Start using issues
+4.  Start using user stories
+5.  Integrate project with Zube.io
+6.  Start using Kanban/some project board
+7.  Start using sprint boards
+8.  Define use cases
+9.  Create use case diagram
 
 Ongoing tasks:
 
