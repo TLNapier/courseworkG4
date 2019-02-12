@@ -1,4 +1,6 @@
-[![Build Status](https://travis-ci.org/TLNapier/courseworkG4.svg?branch=master)](https://travis-ci.org/TLNapier/courseworkG4)
+# Software Engineering Methods
+
+- Master Build Status [![Build Status](https://travis-ci.org/TLNapier/courseworkG4.svg?branch=master)](https://travis-ci.org/TLNapier/courseworkG4)
 
 Group 4 Product Backlog (temporary)
 
