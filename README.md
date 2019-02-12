@@ -2,6 +2,10 @@
 
 - Master Build Status [![Build Status](https://travis-ci.org/TLNapier/courseworkG4.svg?branch=master)](https://travis-ci.org/TLNapier/courseworkG4)
 
+- Develop Build Status [![Build Status](https://travis-ci.org/TLNapier/courseworkG4.svg?branch=develop)](https://travis-ci.org/TLNapier/courseworkG4)
+
+- Release Build Status [![Build Status](https://travis-ci.org/TLNapier/courseworkG4.svg?branch=release)](https://travis-ci.org/TLNapier/courseworkG4)
+
 Group 4 Product Backlog (temporary)
 
 Most immediate tasks:
