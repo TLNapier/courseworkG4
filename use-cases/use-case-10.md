@@ -1,4 +1,4 @@
-# USE CASE 1 : Produce a report on on all the cities in a country organised by largest population to smallest
+# USE CASE 10 : Produce a report on on all the cities in a country organised by largest population to smallest
 ## CHARACTERISTIC INFORMATION
 
 ### Goal in Context

@@ -1,4 +1,4 @@
-# USE CASE 1 : Produce a report on the top N populated countries in the world where N is provided by the user
+# USE CASE 4 : Produce a report on the top N populated countries in the world where N is provided by the user
 ## CHARACTERISTIC INFORMATION
 
 ### Goal in Context

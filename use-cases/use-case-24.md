@@ -1,4 +1,4 @@
-# USE CASE 1 : Produce a report the population of people, people living in cities, and people not living in cities in each region
+# USE CASE 24 : Produce a report the population of people, people living in cities, and people not living in cities in each region
 ## CHARACTERISTIC INFORMATION
 
 ### Goal in Context

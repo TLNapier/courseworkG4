@@ -1,4 +1,4 @@
-# USE CASE 1 : Produce a report on the top N populated countries in a region where N is provided 
+# USE CASE 6 : Produce a report on the top N populated countries in a region where N is provided 
 
 ### Goal in Context
 
