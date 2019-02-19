@@ -1,4 +1,4 @@
-# USE CASE 1 : Produce a report on all the capital cities in the world organised by largest population to smallest 
+# USE CASE 17 : Produce a report on all the capital cities in the world organised by largest population to smallest 
 ## CHARACTERISTIC INFORMATION
 
 ### Goal in Context

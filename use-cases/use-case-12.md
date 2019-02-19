@@ -1,4 +1,4 @@
-# USE CASE 1 : Produce a report on the top N populated cities in the world where N is provided by the user
+# USE CASE 12 : Produce a report on the top N populated cities in the world where N is provided by the user
 ## CHARACTERISTIC INFORMATION
 
 ### Goal in Context
