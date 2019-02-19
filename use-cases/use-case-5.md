@@ -26,7 +26,7 @@ No report is produced.
 
 ### Primary Actor
 
-Organisation
+HR Person
 
 ### Trigger
 
@@ -34,9 +34,10 @@ A request for population information is sent to the organisation.
 
 ## MAIN SUCCESS SCENARIO
 
-1. Organisation is asked for a report on the top N populated countries in a continent where N is provided by the user.
-2. Organisation uses system to extract population information.
-3. Organisation provides report to client.
+1. Organisation requests report on the top N populated countries in a continent where N is provided by the user.
+2. HR Person uses system to extract population information.
+3. HR person provides report to Organisation.
+
 
 ## EXTENSIONS
 
